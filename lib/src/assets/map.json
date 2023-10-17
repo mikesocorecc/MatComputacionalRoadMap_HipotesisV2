@@ -1,0 +1,142 @@
+[
+	{
+		"duration": 90000,
+		"type": "hipotesis",
+		"theme": "",
+		"enunciado": {
+			"title": "Visualiza el escenario e indica la respuesta que mejor se adecúe al código propuesto.",
+			"urlImageTitle": "statement-img",
+			"urlImageItem": ["scene-C", "scene-O"],
+			"drawn": false,
+			"questions": [
+				{ "a": "¿Pregunta 1, lofga diuo gdf svoiudh vpiudh vapifuhb sdpo vuhdfsb vfdpi oub vnfdijb sdvpiud gvp iuds?", "isCorrect": false },
+				{ "b": "¿Pregunta 2, lofga diuo gdf svoiudh vpiudh vapifuhb sdpo vuhdfsb vfdpi oub vnfdijb sdvpiud gvp iuds?", "isCorrect": false },
+                { "c": "¿Pregunta 3, lofga diuo gdf svoiudh vpiudh vapifuhb sdpo vuhdfsb vfdpi oub vnfdijb sdvpiud gvp iuds?", "isCorrect": true }
+			]
+		},
+		"map": [
+			["0", "0", "0", "0", "1", "0", "1", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "1", "0", "1", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "1", "O", "1", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "1", "0", "1", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "1", "C", "1", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "1", "O", "1", "B", "1", "0", "0", "0"],
+			["0", "0", "0", "1", "0", "0", "0", "1", "0", "0", "0"],
+			["0", "0", "0", "1", "0", "0", "0", "1", "0", "0", "0"]
+		],
+		"positionPlayer": {
+			"row": 0,
+			"col": 4,
+			"angle": 90
+		},
+		"solutionMap": {
+			"commands": [ "F1", "L", "U", "O", "U", "R", "F1", "R", "U", "C", "L", "F1", "R", "U", "O" ],
+			"function1": [ "U", "U" ]
+		},
+		"numActions": 2,
+		"functionsAvailable": 1,
+		"maxComandos": 18,
+		"maxFunction1": 12,
+		"maxFunction2": 0,
+		"limitCommands": 18,
+		"maxActions": 2,
+		"maxRepeatActions": 0,
+		"gridSize": {
+			"row": 9,
+			"col": 11
+		},
+		"densityElements": "medium"
+	},
+	{
+		"duration": 90000,
+		"type": "descomposicion",
+		"theme": "",
+		"enunciado": {
+			"title": "Modifica el código mostrado para ajustarte al número de comandos que se pide. Para ello, haz uso de las funciones.",
+			"urlImageTitle": "statement-img",
+			"urlImageItem": ["scene-B"],
+			"showOrder": false,
+			"questions": []
+		},
+		"map": [
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "B", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"]
+		],
+		"positionPlayer": {
+			"row": 8,
+			"col": 5,
+			"angle": -90
+		},
+		"solutionMap": {
+			"commands": [ "F1", "B" ],
+			"function1": [ "U", "U", "U", "U", "U" ]
+		},
+		"numActions": 1,
+		"functionsAvailable": 1,
+		"maxComandos": 12,
+		"maxFunction1": 12,
+		"maxFunction2": 0,
+		"limitCommands": 36,
+		"maxActions": 2,
+		"maxRepeatActions": 0,
+		"gridSize": {
+			"row": 9,
+			"col": 11
+		},
+		"densityElements": "high"
+	},
+	{
+		"duration": 90000,
+		"type": "descomposicion",
+		"theme": "",
+		"enunciado": {
+			"title": "Modifica el código mostrado para ajustarte al número de comandos que se pide. Para ello, haz uso de las funciones.",
+			"urlImageTitle": "statement-img",
+			"urlImageItem": ["scene-C", "scene-Y"],
+			"showOrder": false,
+			"questions": []
+		},
+		"map": [
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "Y", "1", "1", "C", "1", "Y", "1", "1", "1"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+			["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]
+		],
+		"positionPlayer": {
+			"row": 4,
+			"col": 10,
+			"angle": -180
+		},
+		"solutionMap": {
+			"commands": [ "F1", "Y", "F2", "C", "F1", "Y" ],
+			"function1": [ "U", "U", "U" ],
+			"function2": [ "U", "U" ]
+		},
+		"numActions": 2,
+		"functionsAvailable": 2,
+		"maxComandos": 12,
+		"maxFunction1": 12,
+		"maxFunction2": 12,
+		"limitCommands": 36,
+		"maxActions": 2,
+		"maxRepeatActions": 0,
+		"gridSize": {
+			"row": 9,
+			"col": 11
+		},
+		"densityElements": "medium"
+	}
+	]

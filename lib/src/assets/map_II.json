@@ -1,0 +1,44 @@
+{
+	"duration": 90000,
+	"type": "avance",
+	"theme": "forests",
+	"enunciado": {
+		"title": "Situate en la casilla @ y pulsa el botón de acción en cada una de ellas",
+		"urlImageTitle": "statement-img",
+		"urlImageItem": ["scene-B"],
+		"showOrder": false,
+		"questions": []
+	},
+	"map": [
+		["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "B", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0"]
+	],
+	"positionPlayer": {
+		"row": 8,
+		"col": 5,
+		"angle": -90
+	},
+	"solutionMap": {
+		"commands": [ "U", "U", "U", "U", "U", "B" ]
+	},
+	"numActions": 1,
+	"functionsAvailable": 0,
+	"maxComandos": 0,
+	"maxFunction1": 0,
+	"maxFunction2": 0,
+	"limitCommands": 36,
+	"maxActions": 2,
+	"maxRepeatActions": 0,
+	"gridSize": {
+		"row": 9,
+		"col": 11
+	},
+	"densityElements": "high"
+}

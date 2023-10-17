@@ -1,0 +1,12 @@
+  <data name="Ejercicio.MatComputacionalRutaPoliA3" xml:space="preserve">
+    <value>/DesktopModules/Progrentis/Programa/ConsolaEjercicio/2020/MatComputacionalRoadMap/MatComputacional.ascx</value>
+  </data>
+  <data name="Ejercicio.MatComputacionalDescomposicionM3" xml:space="preserve">
+    <value>/DesktopModules/Progrentis/Programa/ConsolaEjercicio/2020/MatComputacionalRoadMap/MatComputacional.ascx</value>
+  </data>
+  <data name="Ejercicio.MatComputacionalFuncion1M3" xml:space="preserve">
+    <value>/DesktopModules/Progrentis/Programa/ConsolaEjercicio/2020/MatComputacionalRoadMap/MatComputacional.ascx</value>
+  </data>
+  <data name="Ejercicio.MatComputacionalBucle2M1" xml:space="preserve">
+    <value>/DesktopModules/Progrentis/Programa/ConsolaEjercicio/2020/MatComputacionalRoadMap/MatComputacional.ascx</value>
+  </data>

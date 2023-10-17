@@ -1,0 +1,57 @@
+{
+	"duration": 90000,
+	"type": "avance",
+	"theme": "forests",
+	"enunciado": {
+		"title": "Situate en la casilla @ y pulsa el botón de acción en cada una de ellas",
+		"urlImageTitle": "statement-img",
+		"urlImageItem": ["scene-B","scene-C"],
+		"showOrder": true,
+		"questions": [
+			{
+				"1": "sfñsdoihdfs gñokjhdsgñknkf afsdfsa dfasdfd dsgf sd dsfa dsgf dsfa dsfag fdsa dsfdsdsñlknñlklmgsfd  pj`gjf`mim sdfg``rdsg sdgijsergkj`gdsmp+`j sdfokn sdfòksdòknmsdthok`nm `tj`sthòk srtokjik`kk"
+			},
+			{
+				"4": "https://img.freepik.com/iconos-gratis/farmacia_318-937831.jpg?size=338&ext=jpg&ga=GA1.2.1677007432.1667389343&semt=sph"
+			},
+			{
+				"2": "Valor tres"
+			},
+			{
+				"3": "Valor cuatro"
+			}
+		]
+	},
+	"map": [
+		["0", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "0", "0", "Y", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0"],
+		["0", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0"],
+		["1", "O", "1", "O", "1", "C", "1", "C", "1", "1", "1"],
+		["0", "0", "0", "1", "0", "0", "0", "1", "0", "0", "0"],
+		["0", "0", "0", "B", "0", "0", "0", "1", "0", "0", "0"],
+		["0", "0", "0", "1", "0", "0", "0", "1", "0", "0", "0"]
+	],
+	"positionPlayer": {
+		"row": 8,
+		"col": 3,
+		"angle": -90
+	},
+	"solutionMap": {
+		"commands": [ "U", "B", "U", "U", "R", "U", "U", "C", "U", "U", "C" ]
+	},
+	"numActions": 4,
+	"functionsAvailable": 0,
+	"maxComandos": 0,
+	"maxFunction1": 0,
+	"maxFunction2": 0,
+	"limitCommands": 36,
+	"maxActions": 2,
+	"maxRepeatActions": 0,
+	"gridSize": {
+		"row": 9,
+		"col": 11
+	},
+	"densityElements": "low"
+}

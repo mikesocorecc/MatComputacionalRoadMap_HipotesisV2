@@ -1,0 +1,13 @@
+src/App.vue
+src/main.js
+src/components/ProgressBar.vue
+src/assets/**/*
+src/**/*.JSON
+src/**/*.json
+src/**/*.md
+src/plugins/**/*
+vue.config.js
+webpack.config.js
+tailwind.config.js
+postcss.config.js
+
